@@ -8,7 +8,7 @@
   
   Dont upload anything other from code files
   
-  We are family friendly, so behqve yourselves
+  We are family friendly, so behave yourselves
   
   and finnaly, Help those that dont understand
 
