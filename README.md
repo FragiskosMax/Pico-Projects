@@ -11,4 +11,6 @@
   We are family friendly, so behqve yourselves
   
   and finnaly, Help those that dont understand
-### Code examples
+
+
+### Now you are free to see the tutorials and *ask if you have questions*
