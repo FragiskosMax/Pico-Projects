@@ -2,15 +2,15 @@
 # Pico-Projects
 ## Rules:
   
-  This repository had made to share code programs for Rspberry Pico
+  - This repository had made to share code programs for Rspberry Pico
   
-  Please add coments to your code files so everyone can understand
+  - Please add coments to your code files so everyone can understand
   
-  Dont upload anything other from code files
+  - Dont upload anything other from code files
   
-  We are family friendly, so behave yourselves
+  - We are family friendly, so behave yourselves
   
-  and finnaly, Help those that dont understand
+  - and finnaly, Help those that dont understand
 
 
 ### Now you are free to see the tutorials and *ask if you have questions*
